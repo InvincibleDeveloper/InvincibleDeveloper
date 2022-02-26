@@ -6,6 +6,7 @@ Hi there 👋, I'm Sergey from Ukraine, and I learn Front-end development. I rea
 * 🧱 Git, Github <br />
 * 📦 npm, yarn <br />
 * ⚙ Webpack <br />
+* 🎇 React <br />
 
 ## My Languages
 * Ukrainian: Native 
