@@ -4,7 +4,7 @@ Hi there 👋, I'm Sergey from Ukraine, and I learn Front-end development. I rea
 ## My Skills
 * 💻 HTML, CSS, JS 
 * 🧱 Git, Github 
-* 📦 Npm, Yarn 
+* 📦 Yarn, npm 
 * ⚙ Webpack, esbuild 
 * 🏢 Prettier, Babel, ESLint
 * 🎇 React 
