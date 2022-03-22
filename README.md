@@ -7,7 +7,8 @@ Hi there 👋, I'm Sergey from Ukraine, and I learn Front-end development. I rea
 * 📦 Yarn, npm 
 * ⚙ Webpack, esbuild 
 * 🏢 Prettier, Babel, ESLint
-* 🎇 React 
+* 🎇 React, Redux
+* 🦽 Accessibility
 
 ## My Languages
 * Ukrainian: Native 
