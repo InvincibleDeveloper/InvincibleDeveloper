@@ -17,7 +17,7 @@ Hi there 👋, I'm Sergey from Ukraine, and I learn Front-end development. I rea
 * English: C1
 
 ### How to Reach Me:
-* invincibledev@protonmail.com;
+* invincibledev@proton.me;
 * sergijsolanik2@gmail.com
 
 
